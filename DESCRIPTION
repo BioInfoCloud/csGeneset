@@ -1,7 +1,7 @@
 Package: csGeneset
 Type: Package
 Title: Gene sets collected from the MSigDB database
-Version: 0.1.0
+Version: 0.0.1
 Authors@R: 
     person(given = "DoubleHelix",
            family = "MedBioInfoCloud",

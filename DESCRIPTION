@@ -1,0 +1,17 @@
+Package: csGeneset
+Type: Package
+Title: Gene sets collected from the MSigDB database
+Version: 0.1.0
+Authors@R: 
+    person(given = "DoubleHelix",
+           family = "MedBioInfoCloud",
+           role = c("aut", "cre"),
+           email = "bioinfocloud@aliyun.com")
+Maintainer: The package maintainer <bioinfocloud@aliyun.com>
+Description: Gene sets collected from the MSigDB database.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.6)
+RoxygenNote: 7.2.0

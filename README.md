@@ -1,5 +1,5 @@
 
-# csGeneSet
+# csGeneset
 
 <!-- badges: start -->
 <!-- badges: end -->

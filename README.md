@@ -19,6 +19,7 @@ devtools::install_github("BioInfoCloud/csGeneset")
 
 ``` r
 library(csGeneset)
+listMSigDB()
 gobp <- gsMSigDB[["c5.go.bp.v2022-1.Hs.symbols.gmt"]]
 gobp_gs <- gobp@geneSet
 head(gobp_gs)

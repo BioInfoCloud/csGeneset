@@ -4,7 +4,10 @@
 \alias{listMSigDB}
 \title{View the dataset filename for MSigDB}
 \usage{
-listMSigDB()
+listMSigDB(gsMSigDB)
+}
+\arguments{
+\item{gsMSigDB}{A list object. A data object from the R package csGeneset.}
 }
 \value{
 A vector

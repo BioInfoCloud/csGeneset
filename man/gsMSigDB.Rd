@@ -5,7 +5,7 @@
 \alias{gsMSigDB}
 \title{msigdb}
 \format{
-A GeneSet object.
+A list object.
 }
 \usage{
 gsMSigDB

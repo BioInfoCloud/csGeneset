@@ -8,5 +8,6 @@
 #' @examples
 #' listMSigDB()
 listMSigDB <- function(gsMSigDB){
+
   return(names(gsMSigDB))
 }
